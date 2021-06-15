@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1573363144557_0" label="Java Main Sources" name="Java Main Sources">
+<item elementID="=hackerRank/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1573363144765_1" label="Java Test Sources" name="Java Test Sources">
+<item elementID="=hackerRank/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1573364480917_3" label="HACKERRANK" name="HACKERRANK">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/hackerRank" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1573363191398_2" label="Window Working Set" name="Aggregate for window 1573363191398"/>
+<mruList name="HACKERRANK"/>
+</workingSetManager>

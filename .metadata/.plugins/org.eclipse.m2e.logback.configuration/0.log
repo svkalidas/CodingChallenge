@@ -1,0 +1,640 @@
+2019-11-10 10:49:46,594 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-11-10 11:11:39,024 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2019-11-10 11:11:39,445 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2019-11-10 11:11:39,692 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2019-11-10 11:11:39,879 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2019-11-10 11:12:24,963 [Worker-31: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\WorkSpace\CoadingChallenge\hackerRank\pom.xml
+2019-11-10 11:12:38,850 [Worker-31: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.learning:hackerRank:0.0.1-SNAPSHOT @ E:\WorkSpace\CoadingChallenge\hackerRank\pom.xml.
+2019-11-10 11:12:42,612 [Worker-31: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hackerRank/src/main/java
+2019-11-10 11:12:42,621 [Worker-31: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hackerRank/src/test/java
+2019-11-10 11:12:44,628 [Worker-31: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 19 sec
+2019-11-10 11:12:45,365 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2019-11-10 11:12:47,142 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2019-11-10 11:12:47,515 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:3.8.1
+2019-11-10 11:12:47,525 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:3.8.1
+2019-11-10 11:17:06,817 [Worker-23: Build] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 11:17:06,817 [Worker-23: Build] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 11:17:06,821 [Worker-23: Build] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 11:17:06,821 [Worker-23: Build] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 11:25:07,297 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 11:25:07,298 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 11:25:07,304 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 11:25:07,304 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 11:26:08,931 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 11:26:08,931 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 11:26:08,933 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 11:26:08,934 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 11:26:56,269 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 11:26:56,269 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 11:26:56,271 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 11:26:56,271 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 11:27:16,954 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 11:27:16,954 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 11:27:16,956 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 11:27:16,956 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 11:32:26,255 [Worker-23: Launching ScannerTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 11:32:26,255 [Worker-23: Launching ScannerTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 11:32:26,255 [Worker-23: Launching ScannerTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 11:32:26,255 [Worker-23: Launching ScannerTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 11:33:02,456 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 11:33:02,456 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 11:33:02,457 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 11:33:02,457 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 11:34:02,046 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 11:34:02,046 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 11:34:02,046 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 11:34:02,046 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 11:35:47,512 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 11:35:47,512 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 11:35:47,514 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 11:35:47,514 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 11:37:26,506 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 11:37:26,506 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 11:37:26,510 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 11:37:26,511 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 11:40:27,029 [Worker-20: Launching ScannerTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 11:40:27,033 [Worker-20: Launching ScannerTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 11:40:27,033 [Worker-20: Launching ScannerTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 11:40:27,033 [Worker-20: Launching ScannerTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 11:42:27,685 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 11:42:27,686 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 11:42:27,692 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 11:42:27,692 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 11:42:30,916 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 11:42:30,917 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 11:42:30,920 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 11:42:30,921 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 13:23:39,170 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 13:23:39,261 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 13:23:39,263 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 13:23:39,263 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 13:33:38,696 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 13:33:38,737 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 13:33:38,739 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 13:33:38,739 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 13:33:46,703 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 13:33:46,703 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 13:33:46,707 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 13:33:46,708 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 13:39:17,596 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 13:39:17,597 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 13:39:17,599 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 13:39:17,599 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 13:40:38,745 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 13:40:38,745 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 13:40:38,746 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 13:40:38,747 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 13:42:16,098 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 13:42:16,098 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 13:42:16,100 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 13:42:16,100 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 13:44:19,019 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 13:44:19,020 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 13:44:19,023 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 13:44:19,023 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 13:44:37,274 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 13:44:37,274 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 13:44:37,276 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 13:44:37,277 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 13:48:55,780 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 13:48:55,780 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 13:48:55,780 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 13:48:55,780 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 13:50:01,640 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 13:50:01,640 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 13:50:01,640 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 13:50:01,640 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 13:50:13,921 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 13:50:13,921 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 13:50:13,922 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 13:50:13,923 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 17:07:25,624 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 17:07:25,648 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 17:07:25,680 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 17:07:25,681 [Worker-79: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 17:07:45,786 [Worker-79: Launching ScannerTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 17:07:45,786 [Worker-79: Launching ScannerTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 17:07:45,802 [Worker-79: Launching ScannerTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 17:07:45,802 [Worker-79: Launching ScannerTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 17:09:53,360 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 17:09:53,360 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 17:09:53,363 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 17:09:53,363 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 17:24:56,120 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 17:24:56,120 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 17:24:56,120 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 17:24:56,120 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 17:25:13,899 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 17:25:13,900 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 17:25:13,900 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 17:25:13,900 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 17:25:27,861 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 17:25:27,862 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 17:25:27,862 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 17:25:27,862 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 17:25:48,202 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 17:25:48,202 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 17:25:48,203 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 17:25:48,204 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 17:26:08,662 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 17:26:08,662 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 17:26:08,667 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 17:26:08,669 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-10 17:26:34,848 [Worker-85: Launching ScannerTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 17:26:34,849 [Worker-85: Launching ScannerTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-10 17:26:34,871 [Worker-85: Launching ScannerTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-10 17:26:34,871 [Worker-85: Launching ScannerTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-13 00:47:14,647 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-11-13 00:49:18,808 [Worker-6: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 00:49:18,808 [Worker-6: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-13 00:49:18,808 [Worker-6: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 00:49:18,808 [Worker-6: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-13 00:51:44,692 [Worker-1: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 00:51:44,692 [Worker-1: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-13 00:51:44,692 [Worker-1: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 00:51:44,692 [Worker-1: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-13 00:54:16,410 [Worker-3: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 00:54:16,410 [Worker-3: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-13 00:54:16,425 [Worker-3: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 00:54:16,425 [Worker-3: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-13 00:54:28,871 [Worker-0: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 00:54:28,871 [Worker-0: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-13 00:54:28,871 [Worker-0: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 00:54:28,871 [Worker-0: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-13 00:55:00,849 [Worker-10: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 00:55:00,849 [Worker-10: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-13 00:55:00,849 [Worker-10: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 00:55:00,865 [Worker-10: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-13 00:57:50,814 [Worker-12: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 00:57:50,814 [Worker-12: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-13 00:57:50,814 [Worker-12: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 00:57:50,814 [Worker-12: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-13 00:58:33,506 [Worker-3: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 00:58:33,506 [Worker-3: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-13 00:58:33,506 [Worker-3: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 00:58:33,506 [Worker-3: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-13 01:01:17,367 [Worker-10: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 01:01:17,367 [Worker-10: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-13 01:01:17,383 [Worker-10: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 01:01:17,383 [Worker-10: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-13 01:01:30,550 [Worker-15: Launching JumpingPuzzal] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 01:01:30,565 [Worker-15: Launching JumpingPuzzal] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-13 01:01:30,565 [Worker-15: Launching JumpingPuzzal] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 01:01:30,565 [Worker-15: Launching JumpingPuzzal] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-13 01:01:34,309 [Worker-3: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 01:01:34,309 [Worker-3: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-13 01:01:34,309 [Worker-3: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 01:01:34,309 [Worker-3: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-13 01:04:49,883 [Worker-17: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 01:04:49,898 [Worker-17: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-13 01:04:49,898 [Worker-17: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 01:04:49,898 [Worker-17: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-13 01:05:52,905 [Worker-15: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 01:05:52,905 [Worker-15: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-13 01:05:52,905 [Worker-15: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 01:05:52,905 [Worker-15: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-13 01:13:31,629 [Worker-15: Launching JumpingPuzzal] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 01:13:31,629 [Worker-15: Launching JumpingPuzzal] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-13 01:13:31,629 [Worker-15: Launching JumpingPuzzal] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 01:13:31,629 [Worker-15: Launching JumpingPuzzal] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-13 01:13:52,331 [Worker-23: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 01:13:52,331 [Worker-23: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-13 01:13:52,331 [Worker-23: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 01:13:52,331 [Worker-23: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-13 01:16:29,789 [Worker-26: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 01:16:29,789 [Worker-26: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-13 01:16:29,789 [Worker-26: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 01:16:29,789 [Worker-26: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-13 01:16:42,896 [Worker-26: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 01:16:42,896 [Worker-26: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-13 01:16:42,896 [Worker-26: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 01:16:42,896 [Worker-26: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2019-11-13 01:17:07,683 [Worker-24: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 01:17:07,683 [Worker-24: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2019-11-13 01:17:07,684 [Worker-24: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 01:17:07,684 [Worker-24: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-01-05 09:25:40,868 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-01-05 09:55:27,877 [Worker-22: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 09:55:27,879 [Worker-22: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-01-05 09:55:27,883 [Worker-22: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 09:55:27,884 [Worker-22: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-01-05 09:55:58,979 [Worker-21: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 09:55:58,979 [Worker-21: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-01-05 09:55:58,982 [Worker-21: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 09:55:58,982 [Worker-21: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-01-05 10:39:48,271 [Worker-38: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 10:39:48,292 [Worker-38: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-01-05 10:39:48,293 [Worker-38: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 10:39:48,293 [Worker-38: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-01-05 10:40:03,908 [Worker-38: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 10:40:03,909 [Worker-38: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-01-05 10:40:03,910 [Worker-38: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 10:40:03,910 [Worker-38: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-01-05 10:40:07,671 [Worker-39: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 10:40:07,671 [Worker-39: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-01-05 10:40:07,673 [Worker-39: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 10:40:07,673 [Worker-39: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-01-05 17:36:38,037 [Worker-51: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 17:36:38,664 [Worker-51: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-01-05 17:36:38,719 [Worker-51: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 17:36:38,720 [Worker-51: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-01-05 17:37:27,906 [Worker-50: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 17:37:27,906 [Worker-50: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-01-05 17:37:27,912 [Worker-50: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 17:37:27,912 [Worker-50: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-01-05 17:45:05,059 [Worker-57: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 17:45:05,059 [Worker-57: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-01-05 17:45:05,062 [Worker-57: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 17:45:05,062 [Worker-57: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-01-05 17:57:26,803 [Worker-58: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 17:57:26,803 [Worker-58: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-01-05 17:57:26,803 [Worker-58: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 17:57:26,803 [Worker-58: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-01-05 18:02:13,599 [Worker-58: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 18:02:13,599 [Worker-58: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-01-05 18:02:13,604 [Worker-58: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 18:02:13,604 [Worker-58: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-01-05 18:02:22,637 [Worker-60: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 18:02:22,638 [Worker-60: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-01-05 18:02:22,640 [Worker-60: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 18:02:22,640 [Worker-60: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-01-05 18:11:19,866 [Worker-62: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 18:11:19,866 [Worker-62: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-01-05 18:11:19,866 [Worker-62: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 18:11:19,866 [Worker-62: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-01-05 18:12:35,128 [Worker-61: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 18:12:35,128 [Worker-61: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-01-05 18:12:35,130 [Worker-61: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 18:12:35,130 [Worker-61: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-01-05 18:12:59,801 [Worker-64: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 18:12:59,801 [Worker-64: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-01-05 18:12:59,804 [Worker-64: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 18:12:59,804 [Worker-64: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-01-05 18:13:07,423 [Worker-56: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 18:13:07,426 [Worker-56: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-01-05 18:13:07,428 [Worker-56: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-05 18:13:07,428 [Worker-56: Building...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-02 12:24:46,509 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-02 12:24:50,646 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.learning:hackerRank:0.0.1-SNAPSHOT @ D:\WorkSpace\CoadingChallenge\hackerRank\pom.xml.
+2020-05-02 12:24:51,815 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 12:24:51,815 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-02 12:24:51,824 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 12:24:51,825 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-02 12:24:52,959 [Worker-5: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.learning:hackerRank:0.0.1-SNAPSHOT @ D:\WorkSpace\CoadingChallenge\hackerRank\pom.xml.
+2020-05-02 12:24:55,123 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 12:24:55,123 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-02 12:24:55,123 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 12:24:55,123 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-02 16:32:52,278 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 16:32:52,279 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-02 16:32:52,281 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 16:32:52,281 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-02 16:33:03,649 [Worker-40: Launching BreakTimeFinder] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 16:33:03,650 [Worker-40: Launching BreakTimeFinder] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-02 16:33:03,651 [Worker-40: Launching BreakTimeFinder] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 16:33:03,652 [Worker-40: Launching BreakTimeFinder] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-02 16:57:39,491 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 16:57:39,491 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-02 16:57:39,492 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 16:57:39,492 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-02 17:02:21,903 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:02:21,903 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-02 17:02:21,905 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:02:21,905 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-02 17:02:46,991 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:02:46,991 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-02 17:02:46,993 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:02:46,993 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-02 17:16:35,974 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:16:35,974 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-02 17:16:35,978 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:16:35,978 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-02 17:19:13,758 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:19:13,758 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-02 17:19:13,759 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:19:13,759 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-02 17:21:56,130 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:21:56,131 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-02 17:21:56,132 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:21:56,133 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-02 17:22:22,104 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:22:22,105 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-02 17:22:22,106 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:22:22,106 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-02 17:23:28,569 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:23:28,570 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-02 17:23:28,572 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:23:28,573 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-02 18:18:26,944 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 18:18:26,945 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-02 18:18:26,948 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 18:18:26,948 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-02 18:18:37,444 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 18:18:37,444 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-02 18:18:37,446 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 18:18:37,446 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-02 18:19:03,885 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 18:19:03,886 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-02 18:19:03,887 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 18:19:03,887 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-02 18:19:42,851 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 18:19:42,851 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-02 18:19:42,853 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 18:19:42,853 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-02 18:36:23,804 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 18:36:23,804 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-02 18:36:23,806 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 18:36:23,806 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-02 18:37:33,418 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 18:37:33,418 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-02 18:37:33,420 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 18:37:33,420 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-02 22:48:06,964 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 22:48:06,969 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-02 22:48:06,979 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 22:48:06,979 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-05 17:34:35,956 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-09 21:24:21,183 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-09 21:24:22,079 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2020-05-09 21:28:05,466 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:28:05,466 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-09 21:28:05,468 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:28:05,469 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-09 21:31:52,500 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:31:52,502 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-09 21:31:52,508 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:31:52,508 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-09 21:32:22,006 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:32:22,007 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-09 21:32:22,010 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:32:22,010 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-09 21:32:37,062 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:32:37,062 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-09 21:32:37,065 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:32:37,066 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-09 21:33:22,112 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:33:22,113 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-09 21:33:22,117 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:33:22,117 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-09 21:33:50,148 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:33:50,149 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-09 21:33:50,152 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:33:50,152 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-09 21:37:12,791 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:37:12,791 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-09 21:37:12,793 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:37:12,793 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-09 21:37:34,280 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:37:34,280 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-09 21:37:34,286 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:37:34,287 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-09 21:37:49,747 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:37:49,747 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-09 21:37:49,748 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:37:49,748 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-09 21:39:10,641 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:39:10,641 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-09 21:39:10,644 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:39:10,645 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-09 21:39:44,914 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:39:44,914 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-09 21:39:44,917 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:39:44,917 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-09 21:43:08,368 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:43:08,369 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-09 21:43:08,371 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:43:08,371 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-09 21:43:13,183 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:43:13,183 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-09 21:43:13,186 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:43:13,187 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-09 21:43:27,809 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:43:27,809 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-09 21:43:27,811 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 21:43:27,811 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-17 16:04:44,175 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-17 16:05:24,404 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-17 16:05:24,404 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-17 16:05:24,408 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-17 16:05:24,408 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-05-17 16:05:52,990 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-17 16:05:52,991 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-05-17 16:05:52,993 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-17 16:05:52,994 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-03 23:37:21,428 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-06-03 23:38:04,250 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-03 23:38:04,251 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-03 23:38:04,253 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-03 23:38:04,253 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-03 23:51:27,293 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-03 23:51:27,294 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-03 23:51:27,298 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-03 23:51:27,299 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-03 23:51:59,970 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-03 23:51:59,971 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-03 23:51:59,974 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-03 23:51:59,974 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-03 23:53:25,491 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-03 23:53:25,492 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-03 23:53:25,494 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-03 23:53:25,494 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-03 23:56:47,996 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-03 23:56:47,997 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-03 23:56:47,999 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-03 23:56:48,000 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-03 23:58:16,352 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-03 23:58:16,352 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-03 23:58:16,355 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-03 23:58:16,355 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-03 23:58:21,713 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-03 23:58:21,714 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-03 23:58:21,717 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-03 23:58:21,717 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-03 23:58:47,388 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-03 23:58:47,389 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-03 23:58:47,395 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-03 23:58:47,395 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 00:00:42,657 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 00:00:42,657 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 00:00:42,659 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 00:00:42,659 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 00:00:54,612 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 00:00:54,612 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 00:00:54,613 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 00:00:54,613 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 00:01:09,195 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 00:01:09,196 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 00:01:09,198 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 00:01:09,198 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 00:01:44,582 [Worker-25: Launching SeatingArrangement] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 00:01:44,582 [Worker-25: Launching SeatingArrangement] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 00:01:44,583 [Worker-25: Launching SeatingArrangement] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 00:01:44,583 [Worker-25: Launching SeatingArrangement] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 00:04:15,716 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 00:04:15,717 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 00:04:15,719 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 00:04:15,720 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 00:37:57,690 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 00:37:57,690 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 00:37:57,691 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 00:37:57,691 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 00:48:48,517 [Worker-66: Launching SeatingArrangement] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 00:48:48,517 [Worker-66: Launching SeatingArrangement] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 00:48:48,519 [Worker-66: Launching SeatingArrangement] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 00:48:48,520 [Worker-66: Launching SeatingArrangement] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 00:52:47,607 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 00:52:47,608 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 00:52:47,613 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 00:52:47,614 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 00:53:01,635 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 00:53:01,635 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 00:53:01,636 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 00:53:01,636 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 00:53:15,802 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 00:53:15,802 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 00:53:15,803 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 00:53:15,803 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 00:53:19,463 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 00:53:19,463 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 00:53:19,466 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 00:53:19,467 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 00:53:38,010 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 00:53:38,010 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 00:53:38,012 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 00:53:38,012 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 00:53:46,617 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 00:53:46,618 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 00:53:46,618 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 00:53:46,618 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 01:00:25,000 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:00:25,001 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 01:00:25,002 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:00:25,002 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 01:01:14,174 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:01:14,174 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 01:01:14,176 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:01:14,176 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 01:02:00,120 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:02:00,121 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 01:02:00,123 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:02:00,124 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 01:05:51,534 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:05:51,535 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 01:05:51,537 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:05:51,538 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 01:06:40,541 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:06:40,542 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 01:06:40,543 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:06:40,543 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 01:09:35,203 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:09:35,203 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 01:09:35,204 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:09:35,204 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 01:16:21,399 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:16:21,399 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 01:16:21,401 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:16:21,401 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 01:16:24,581 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:16:24,581 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 01:16:24,582 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:16:24,583 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 01:16:33,848 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:16:33,849 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 01:16:33,851 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:16:33,852 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 01:21:10,626 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:21:10,626 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 01:21:10,628 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:21:10,628 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 01:22:06,915 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:22:06,915 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 01:22:06,917 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:22:06,917 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 01:23:35,244 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:23:35,245 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 01:23:35,247 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:23:35,247 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 01:27:08,662 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:27:08,663 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 01:27:08,665 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:27:08,665 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 01:27:46,654 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:27:46,654 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 01:27:46,657 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:27:46,657 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 01:39:54,710 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:39:54,711 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 01:39:54,714 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 01:39:54,714 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 10:13:49,378 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-06-04 10:14:23,162 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 10:14:23,162 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 10:14:23,165 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 10:14:23,165 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 10:25:13,227 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 10:25:13,227 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 10:25:13,228 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 10:25:13,229 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 10:25:38,197 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 10:25:38,197 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 10:25:38,198 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 10:25:38,198 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 10:26:20,432 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 10:26:20,432 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 10:26:20,433 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 10:26:20,433 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 10:27:27,806 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 10:27:27,807 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 10:27:27,808 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 10:27:27,808 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 10:33:02,639 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 10:33:02,639 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 10:33:02,640 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 10:33:02,640 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 10:40:53,724 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 10:40:53,724 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 10:40:53,725 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 10:40:53,726 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 10:45:13,609 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 10:45:13,610 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 10:45:13,611 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 10:45:13,612 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 10:45:39,988 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 10:45:39,988 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 10:45:39,989 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 10:45:39,989 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 10:49:08,084 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 10:49:08,084 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 10:49:08,085 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 10:49:08,085 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 22:57:22,556 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 22:57:22,559 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 22:57:22,563 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 22:57:22,563 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 23:01:17,431 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 23:01:17,431 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 23:01:17,433 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 23:01:17,434 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-04 23:03:37,605 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 23:03:37,605 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-04 23:03:37,606 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-04 23:03:37,606 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-24 17:37:30,025 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-06-24 17:53:00,197 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 17:53:00,198 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-24 17:53:00,201 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 17:53:00,201 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-24 17:54:12,132 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 17:54:12,133 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-24 17:54:12,134 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 17:54:12,136 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-25 10:37:56,832 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-06-25 10:39:52,531 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 10:39:52,532 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-25 10:39:52,534 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 10:39:52,534 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-25 10:40:20,175 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 10:40:20,176 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\main\resources
+2020-06-25 10:40:20,181 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 10:40:20,182 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpace\CoadingChallenge\hackerRank\src\test\resources
+2020-06-28 16:58:52,654 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
